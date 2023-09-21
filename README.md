@@ -22,7 +22,7 @@
 
 📧 Email: jone.aristo@gmail.com
 🔗 LinkedIn: https://linkedin.com/in/robertrjs
-🌐 Portfolio: datascienceportfol.io/robert_rjs
+🌐 Portfolio: https://www.datascienceportfol.io/robert_rjs
 
 📊 Data Analyst by day, watching movies and cooking by night. Always eager to learn and explore the ever-evolving world of data. 🚀
 
