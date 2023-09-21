@@ -1,11 +1,10 @@
-Hello! I am Robert Jones S,
+Hi I am **Robert Jones** working as a **Data Analyst(Associate level)**...
+Experienced person to handle large amount of data and manipulate them and convert into meaningful and beautiful interactive Insights using tools like
+  **Programming Languages -  Python, R Programming (Basics)
+  Data Analysis Libraries - pandas, Numpy
+  Visualization Libraries - Matplotlib, seaborn
+  BI tools - PowerBI , Tableau
+  Spreadsheet - Microsoft Excel (for mid level of Analysing the data)**
 
-- 👋 Hi, I’m @robertjones-987
-- 👀 I’m interested in Data Science, Python, MySQL and AWS...
-- 🌱 I’m currently learning Data Science...
-- 📫 How to reach me  Linkedin:@ www.linkedin.com/in/robertrjs
 
-<!---
-robertjones-987/robertjones-987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
